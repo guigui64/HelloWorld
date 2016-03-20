@@ -10,7 +10,7 @@ int main() {
     string empty2("not empty !"); // direct initialization
     string empty3{"not empty !"}; // list initialization
     cout << "Hello, World! + \"" << empty << "\"" << endl;
-    cout << (empty == empty2) << " " << (empty == empty3) << endl;
+    cout << ((empty == empty2) ? "true" : "false") << " " << ((empty == empty3) ? "true" : "false") << endl;
 
     string sentence;
     cout << endl << "Enter some sentence and I will parse it !" << endl;

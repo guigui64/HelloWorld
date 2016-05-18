@@ -25,5 +25,7 @@ int main() {
         c = (char) toupper(c);
     cout << sentence << endl;
 
+    cout << "NEW !!!!" << endl;
+
     return 0;
 }

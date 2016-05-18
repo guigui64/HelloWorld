@@ -1,5 +1,5 @@
 //
-// Created by guillaume on 3/13/16.
+// Created by guillaume on 3/13/16. Modified !
 //
 
 #ifndef HELLOWORLD_SPLIT_H
